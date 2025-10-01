@@ -80,37 +80,37 @@ Goes beyond mobile apps → tackles literacy & connectivity gaps<b>
 Community-centered design → peer trust + tech credibility<b>
 Offline-first AI → resilient even in remote villages<b>
 Youth empowerment through farm guides → rural jobs + tech adoption<b>
-Sustainable → solar-powered, low-cost, scalable
+Sustainable → solar-powered, low-cost, scalable<b><b>
 
 ## Technical Approach
 
 TECHNOLOGIES:
 
-Programming Languages:
-Python (AI/ML models)
-JavaScript (React Native & Node.js)
+Programming Languages:<b>
+Python (AI/ML models)<b>
+JavaScript (React Native & Node.js)<b>
 
-Frameworks:
-TensorFlow Lite (AI models on device)
-OpenCV (image detection)
-FastAPI (backend APIs)
+Frameworks:<b>
+TensorFlow Lite (AI models on device)<b>
+OpenCV (image detection)<b>
+FastAPI (backend APIs)<b>
 
-Database:
-PostgreSQL (cloud)
-SQLite (offline)
+Database:<b>
+PostgreSQL (cloud)<b>
+SQLite (offline)<b>
 
-Hardware:
-Raspberry Pi 4 + Camera
-Solar-powered kiosks
-Low-cost Android phones
+Hardware:<b>
+Raspberry Pi 4 + Camera<b>
+Solar-powered kiosks<b>
+Low-cost Android phones<b>
 
-Cloud & APIs:
-AWS (model training & storage)
-OpenWeather API (weather)
-Govt. Market APIs (prices)
+Cloud & APIs:<b>
+AWS (model training & storage)<b>
+OpenWeather API (weather)<b>
+Govt. Market APIs (prices)<b>
 
-TECHNICAL FLOW:
-![alt text](<flow web sih-1.jpg>)
+TECHNICAL FLOW:<b>
+![alt text](<flow web sih-1.jpg>)<b><b>
 
 ## Feasibility and Viability
 
@@ -136,7 +136,7 @@ Use offline AI models with periodic low-bandwidth synchronization<b>
 Demonstration plots and sharing local success stories to build trust<b>
 Community ownership model and train local youth to maintain kiosks<b>
 Support multiple regional dialects with text-to-speech features<b>
-Continuous learning through field data collection and expert validation
+Continuous learning through field data collection and expert validation<b><b>
 
 ## Impact and Benefits
 
@@ -151,7 +151,7 @@ Community & Environment: Peer learning, eco-friendly practices
 BENEFITS:
 Economic: 20–30% yield increase, optimized input costs.<b>
 Social: Knowledge empowerment, inclusion of low-literacy farmers.<b>
-Environmental: Reduced chemical use, sustainable farming practices.
+Environmental: Reduced chemical use, sustainable farming practices.<b><b>
 
 ## Research and References
 
