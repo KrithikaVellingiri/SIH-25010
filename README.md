@@ -42,7 +42,7 @@ Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
 
-PROPOSED SOLUTION: 
+<ul><li>PROPOSED SOLUTION: 
 
 Community-Based “Agri-Companion” Network with Offline AI Hubs
 
@@ -52,9 +52,9 @@ Voice-first interface: Farmers can talk in their dialect (even without literacy)
 
 Community trainers: Local youth trained to assist farmers with the tech, building trust and bridging literacy gaps.
 
-Farmer-to-farmer knowledge exchange: AI also curates local success stories, allowing farmers to hear “what worked in your neighbor’s field” rather than just generic scientific advice.
+Farmer-to-farmer knowledge exchange: AI also curates local success stories, allowing farmers to hear “what worked in your neighbor’s field” rather than just generic scientific advice.</li>
 
-PROBLEMS ADDRESSED:
+<li>PROBLEMS ADDRESSED:
 
 Language & Literacy Barrier
 → Voice-first interaction in local dialects, no need to read/write<b>
@@ -72,19 +72,19 @@ Limited Internet Access
 → Offline-first AI hubs work without constant connectivity<b>
 
 Low Trust in Technology
-→ Peer learning & farm guides build farmer confidence in using the system
+→ Peer learning & farm guides build farmer confidence in using the system</li>
 
-INNOVATION AND UNIQUENESS:
+<li>INNOVATION AND UNIQUENESS:
 
 Goes beyond mobile apps → tackles literacy & connectivity gaps<b>
 Community-centered design → peer trust + tech credibility<b>
 Offline-first AI → resilient even in remote villages<b>
 Youth empowerment through farm guides → rural jobs + tech adoption<b>
-Sustainable → solar-powered, low-cost, scalable<b><b>
+Sustainable → solar-powered, low-cost, scalable<b><b></li>
 
 ## Technical Approach
-
-TECHNOLOGIES:
+<ul>
+<li>TECHNOLOGIES:
 
 Programming Languages:<b>
 Python (AI/ML models)<b>
@@ -107,56 +107,57 @@ Low-cost Android phones<b>
 Cloud & APIs:<b>
 AWS (model training & storage)<b>
 OpenWeather API (weather)<b>
-Govt. Market APIs (prices)<b>
+Govt. Market APIs (prices)<b></li>
 
-TECHNICAL FLOW:<b>
-![alt text](<flow web sih-1.jpg>)<b><b>
+<li>TECHNICAL FLOW:<b>
+![alt text](<flow web sih-1.jpg>)<b><b></li>
 
 ## Feasibility and Viability
 
-FEASIBILITY:
+<ul>
+<li>FEASIBILITY:
 
 Technology: Lightweight AI + voice interfaces + offline mode.<b>
 Operations: Local youth trained as guides; offline-first ensures reach.<b>
-Finance: Low-cost kiosks + public-private partnerships
+Finance: Low-cost kiosks + public-private partnerships</li>
 
-POTENTIAL CHALLENGES AND RISKS:
+<li>POTENTIAL CHALLENGES AND RISKS:
 
 Low digital literacy among farmers<b>
 Poor or unreliable internet connectivity<b>
 Resistance to adopting new technology<b>
 Hardware maintenance and durability issues<b>
 Language and dialect diversity<b>
-Ensuring accuracy of AI predictions
+Ensuring accuracy of AI predictions</li>
 
-STRATEGIES:
+<li>STRATEGIES:
 
 Implement voice-first interfaces and provide on-site guidance via trained farm guide<b>
 Use offline AI models with periodic low-bandwidth synchronization<b>
 Demonstration plots and sharing local success stories to build trust<b>
 Community ownership model and train local youth to maintain kiosks<b>
 Support multiple regional dialects with text-to-speech features<b>
-Continuous learning through field data collection and expert validation<b><b>
+Continuous learning through field data collection and expert validation<b><b></li>
 
 ## Impact and Benefits
 
-IMPACTS:
+<ul><li>IMPACTS:
 
 Farmers: Higher yields, lower costs, access to local knowledge<b>
 Extension Officers: Easier monitoring, better insights<b>
 Government & NGOs: Efficient resource use, improved food security<b>
 Krishi Mitras: Skills, employment, community recognition<b>
-Community & Environment: Peer learning, eco-friendly practices
+Community & Environment: Peer learning, eco-friendly practices<b><b></li>
 
-BENEFITS:
+<li>BENEFITS:
 Economic: 20–30% yield increase, optimized input costs.<b>
 Social: Knowledge empowerment, inclusion of low-literacy farmers.<b>
-Environmental: Reduced chemical use, sustainable farming practices.<b><b>
+Environmental: Reduced chemical use, sustainable farming practices.<b><b></li>
 
 ## Research and References
 
-NABARD Report 2022: 86% of Indian farmers are small/marginal<b>
+<ul><li>NABARD Report 2022: 86% of Indian farmers are small/marginal<b>
 FAO 2020: ICT advisories can boost crop yield by 20–30%<b>
 World Bank 2021: Digital agriculture for smallholders<b>
 NITI Aayog 2021: Solar-powered kiosks in rural India<b>
-Microsoft Research 2020: NLP for low-resource languages
+Microsoft Research 2020: NLP for low-resource languages<b><b></li>
