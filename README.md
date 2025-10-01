@@ -42,7 +42,7 @@ Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
 
-<ul><li>PROPOSED SOLUTION: 
+PROPOSED SOLUTION: 
 
 Community-Based “Agri-Companion” Network with Offline AI Hubs
 
@@ -52,152 +52,117 @@ Voice-first interface: Farmers can talk in their dialect (even without literacy)
 
 Community trainers: Local youth trained to assist farmers with the tech, building trust and bridging literacy gaps.
 
-Farmer-to-farmer knowledge exchange: AI also curates local success stories, allowing farmers to hear “what worked in your neighbor’s field” rather than just generic scientific advice.</li>
+Farmer-to-farmer knowledge exchange: AI also curates local success stories, allowing farmers to hear “what worked in your neighbor’s field” rather than just generic scientific advice.
 
-<li>PROBLEMS ADDRESSED:
+PROBLEMS ADDRESSED:
 
 Language & Literacy Barrier
-→ Voice-first interaction in local dialects, no need to read/write<b>
+→ Voice-first interaction in local dialects, no need to read/write
 
 Lack of Reliable Advisory
-→ AI-based, location-specific recommendations (soil, weather, crop history)<b>
+→ AI-based, location-specific recommendations (soil, weather, crop history)
 
 Overuse of Chemicals & High Input Cost
-→ Precise fertilizer & pest management advice → lower expenses, sustainable farming<b>
+→ Precise fertilizer & pest management advice → lower expenses, sustainable farming
 
 Dependence on Shopkeepers / Guesswork
-→ Farmers get trusted, science-backed + peer-validated insights directly<b>
+→ Farmers get trusted, science-backed + peer-validated insights directly
 
 Limited Internet Access
-→ Offline-first AI hubs work without constant connectivity<b>
+→ Offline-first AI hubs work without constant connectivity
 
 Low Trust in Technology
-→ Peer learning & farm guides build farmer confidence in using the system</li>
+→ Peer learning & farm guides build farmer confidence in using the system
 
-<li>INNOVATION AND UNIQUENESS:
+INNOVATION AND UNIQUENESS:
 
-Goes beyond mobile apps → tackles literacy & connectivity gaps<b>
-
-Community-centered design → peer trust + tech credibility<b>
-
-Offline-first AI → resilient even in remote villages<b>
-
-Youth empowerment through farm guides → rural jobs + tech adoption<b>
-
-Sustainable → solar-powered, low-cost, scalable<b><b></li>
+Goes beyond mobile apps → tackles literacy & connectivity gaps<br>
+Community-centered design → peer trust + tech credibility<br>
+Offline-first AI → resilient even in remote villages<br>
+Youth empowerment through farm guides → rural jobs + tech adoption<br>
+Sustainable → solar-powered, low-cost, scalable<br>
 
 ## Technical Approach
-<ul>
-<li>TECHNOLOGIES:
 
-Programming Languages:<b>
+TECHNOLOGIES:
 
-Python (AI/ML models)<b>
+Programming Languages:
 
-JavaScript (React Native & Node.js)<b>
+Python (AI/ML models)<br>
+JavaScript (React Native & Node.js)
 
-Frameworks:<b>
+Frameworks:
 
-TensorFlow Lite (AI models on device)<b>
+TensorFlow Lite (AI models on device)<br>
+OpenCV (image detection)<br>
+FastAPI (backend APIs)
 
-OpenCV (image detection)<b>
+Database:
 
-FastAPI (backend APIs)<b>
+PostgreSQL (cloud)<br>
+SQLite (offline)
 
-Database:<b>
+Hardware:
 
-PostgreSQL (cloud)<b>
+Raspberry Pi 4 + Camera<br>
+Solar-powered kiosks<br>
+Low-cost Android phones<br>
 
-SQLite (offline)<b>
+Cloud & APIs:
 
-Hardware:<b>
+AWS (model training & storage)<br>
+OpenWeather API (weather)<br>
+Govt. Market APIs (prices)<br>
 
-Raspberry Pi 4 + Camera<b>
+TECHNICAL FLOW:
 
-Solar-powered kiosks<b>
-
-Low-cost Android phones<b>
-
-Cloud & APIs:<b>
-
-AWS (model training & storage)<b>
-
-OpenWeather API (weather)<b>
-
-Govt. Market APIs (prices)<b></li>
-
-<li>TECHNICAL FLOW:<b>
-
-![alt text](<flow web sih-1.jpg>)<b><b></li>
+![alt text](<flow web sih-1.jpg>)<br>
 
 ## Feasibility and Viability
 
-<ul>
-<li>FEASIBILITY:
+FEASIBILITY:
 
-Technology: Lightweight AI + voice interfaces + offline mode.<b>
+Technology: Lightweight AI + voice interfaces + offline mode.<br>
+Operations: Local youth trained as guides; offline-first ensures reach.<br>
+Finance: Low-cost kiosks + public-private partnerships
 
-Operations: Local youth trained as guides; offline-first ensures reach.<b>
+POTENTIAL CHALLENGES AND RISKS:
 
-Finance: Low-cost kiosks + public-private partnerships</li>
+Low digital literacy among farmers<br>
+Poor or unreliable internet connectivity<br>
+Resistance to adopting new technology<br>
+Hardware maintenance and durability issues<br>
+Language and dialect diversity<br>
+Ensuring accuracy of AI predictions
 
-<li>POTENTIAL CHALLENGES AND RISKS:
+STRATEGIES:
 
-Low digital literacy among farmers<b>
-
-Poor or unreliable internet connectivity<b>
-
-Resistance to adopting new technology<b>
-
-Hardware maintenance and durability issues<b>
-
-Language and dialect diversity<b>
-
-Ensuring accuracy of AI predictions</li>
-
-<li>STRATEGIES:
-
-Implement voice-first interfaces and provide on-site guidance via trained farm guide<b>
-
-Use offline AI models with periodic low-bandwidth synchronization<b>
-
-Demonstration plots and sharing local success stories to build trust<b>
-
-Community ownership model and train local youth to maintain kiosks<b>
-
-Support multiple regional dialects with text-to-speech features<b>
-
-Continuous learning through field data collection and expert validation<b><b></li>
+Implement voice-first interfaces and provide on-site guidance via trained farm guide<br>
+Use offline AI models with periodic low-bandwidth synchronization<br>
+Demonstration plots and sharing local success stories to build trust<br>
+Community ownership model and train local youth to maintain kiosks<br>
+Support multiple regional dialects with text-to-speech features<br>
+Continuous learning through field data collection and expert validation<br>
 
 ## Impact and Benefits
 
-<ul><li>IMPACTS:
+IMPACTS:
 
-Farmers: Higher yields, lower costs, access to local knowledge<b>
+Farmers: Higher yields, lower costs, access to local knowledge<br>
+Extension Officers: Easier monitoring, better insights<br>
+Government & NGOs: Efficient resource use, improved food security<br>
+Krishi Mitras: Skills, employment, community recognition<br>
+Community & Environment: Peer learning, eco-friendly practices
 
-Extension Officers: Easier monitoring, better insights<b>
-
-Government & NGOs: Efficient resource use, improved food security<b>
-
-Krishi Mitras: Skills, employment, community recognition<b>
-
-Community & Environment: Peer learning, eco-friendly practices<b><b></li>
-
-<li>BENEFITS:
-Economic: 20–30% yield increase, optimized input costs.<b>
-
-Social: Knowledge empowerment, inclusion of low-literacy farmers.<b>
-
-Environmental: Reduced chemical use, sustainable farming practices.<b><b></li>
+BENEFITS:
+Economic: 20–30% yield increase, optimized input costs.<br>
+Social: Knowledge empowerment, inclusion of low-literacy farmers.<br>
+Environmental: Reduced chemical use, sustainable farming practices.
 
 ## Research and References
 
-<ul><li>NABARD Report 2022: 86% of Indian farmers are small/marginal<b>
-
-FAO 2020: ICT advisories can boost crop yield by 20–30%<b>
-
-World Bank 2021: Digital agriculture for smallholders<b>
-
-NITI Aayog 2021: Solar-powered kiosks in rural India<b>
-
-Microsoft Research 2020: NLP for low-resource languages<b><b></li>
+NABARD Report 2022: 86% of Indian farmers are small/marginal<br>
+FAO 2020: ICT advisories can boost crop yield by 20–30%<br>
+World Bank 2021: Digital agriculture for smallholders<br>
+NITI Aayog 2021: Solar-powered kiosks in rural India<br>
+Microsoft Research 2020: NLP for low-resource languages
