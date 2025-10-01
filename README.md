@@ -76,10 +76,10 @@ Low Trust in Technology
 
 INNOVATION AND UNIQUENESS:
 
-Goes beyond mobile apps → tackles literacy & connectivity gaps
-Community-centered design → peer trust + tech credibility
-Offline-first AI → resilient even in remote villages
-Youth empowerment through farm guides → rural jobs + tech adoption
+Goes beyond mobile apps → tackles literacy & connectivity gaps<b>
+Community-centered design → peer trust + tech credibility<b>
+Offline-first AI → resilient even in remote villages<b>
+Youth empowerment through farm guides → rural jobs + tech adoption<b>
 Sustainable → solar-powered, low-cost, scalable
 
 ## Technical Approach
@@ -116,47 +116,47 @@ TECHNICAL FLOW:
 
 FEASIBILITY:
 
-Technology: Lightweight AI + voice interfaces + offline mode.
-Operations: Local youth trained as guides; offline-first ensures reach.
+Technology: Lightweight AI + voice interfaces + offline mode.<b>
+Operations: Local youth trained as guides; offline-first ensures reach.<b>
 Finance: Low-cost kiosks + public-private partnerships
 
 POTENTIAL CHALLENGES AND RISKS:
 
-Low digital literacy among farmers
-Poor or unreliable internet connectivity
-Resistance to adopting new technology
-Hardware maintenance and durability issues
-Language and dialect diversity
+Low digital literacy among farmers<b>
+Poor or unreliable internet connectivity<b>
+Resistance to adopting new technology<b>
+Hardware maintenance and durability issues<b>
+Language and dialect diversity<b>
 Ensuring accuracy of AI predictions
 
 STRATEGIES:
 
-Implement voice-first interfaces and provide on-site guidance via trained farm guide
-Use offline AI models with periodic low-bandwidth synchronization
-Demonstration plots and sharing local success stories to build trust
-Community ownership model and train local youth to maintain kiosks
-Support multiple regional dialects with text-to-speech features
+Implement voice-first interfaces and provide on-site guidance via trained farm guide<b>
+Use offline AI models with periodic low-bandwidth synchronization<b>
+Demonstration plots and sharing local success stories to build trust<b>
+Community ownership model and train local youth to maintain kiosks<b>
+Support multiple regional dialects with text-to-speech features<b>
 Continuous learning through field data collection and expert validation
 
 ## Impact and Benefits
 
 IMPACTS:
 
-Farmers: Higher yields, lower costs, access to local knowledge
-Extension Officers: Easier monitoring, better insights
-Government & NGOs: Efficient resource use, improved food security
-Krishi Mitras: Skills, employment, community recognition
+Farmers: Higher yields, lower costs, access to local knowledge<b>
+Extension Officers: Easier monitoring, better insights<b>
+Government & NGOs: Efficient resource use, improved food security<b>
+Krishi Mitras: Skills, employment, community recognition<b>
 Community & Environment: Peer learning, eco-friendly practices
 
 BENEFITS:
-Economic: 20–30% yield increase, optimized input costs.
-Social: Knowledge empowerment, inclusion of low-literacy farmers.
+Economic: 20–30% yield increase, optimized input costs.<b>
+Social: Knowledge empowerment, inclusion of low-literacy farmers.<b>
 Environmental: Reduced chemical use, sustainable farming practices.
 
 ## Research and References
 
-NABARD Report 2022: 86% of Indian farmers are small/marginal
-FAO 2020: ICT advisories can boost crop yield by 20–30%
-World Bank 2021: Digital agriculture for smallholders
-NITI Aayog 2021: Solar-powered kiosks in rural India
+NABARD Report 2022: 86% of Indian farmers are small/marginal<b>
+FAO 2020: ICT advisories can boost crop yield by 20–30%<b>
+World Bank 2021: Digital agriculture for smallholders<b>
+NITI Aayog 2021: Solar-powered kiosks in rural India<b>
 Microsoft Research 2020: NLP for low-resource languages
